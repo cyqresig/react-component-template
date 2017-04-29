@@ -1,7 +1,7 @@
 {
-    "name": "react-webpack-template",
+    "name": "react-component-template",
     "version": "1.0.0",
-    "description": "A project template for react with webpack",
+    "description": "A multiple-page project template for react with webpack",
     "main": "index.js",
     "scripts": {
         "eslint": "eslint . --quiet",
