@@ -4,9 +4,8 @@
  */
 
 import render from '../util/render'
-// import TodoListContainer from '../container/TodoListContainer'
-import TestContainer from '../container/TestContainer'
+import TodoListContainer from '../container/TodoListContainer'
 
 export default () => {
-    return render(TestContainer)
+    return render(TodoListContainer)
 }
