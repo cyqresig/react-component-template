@@ -1,5 +1,5 @@
 {
-    "name": "react-component-template",
+    "name": "react-webapp-template",
     "version": "1.0.0",
     "description": "A multiple-page project template for react with webpack",
     "main": "index.js",
